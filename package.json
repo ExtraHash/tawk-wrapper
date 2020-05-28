@@ -1,6 +1,6 @@
 {
   "name": "tawk-wrapper",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Simple wrapper for tawk",
   "main": "./dist/main.js",
   "scripts": {
